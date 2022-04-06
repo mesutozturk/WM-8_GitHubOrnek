@@ -1,12 +1,9 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
-Console.WriteLine("Can");
-Console.WriteLine("Sema");
-Console.WriteLine("Mert");
-Console.WriteLine("Murat");
 Console.WriteLine("Emrecan");
 Console.WriteLine("Ali Erhan");
 Console.WriteLine("Mesut");
+Console.WriteLine("Mert");
 Console.WriteLine("Ahmet");
 Console.WriteLine("Can");
 Console.WriteLine("Yağızhan");
@@ -19,7 +16,6 @@ Console.WriteLine("Talha");
 Console.WriteLine("C");
 Console.WriteLine("A");
 Console.WriteLine("N");
-Console.WriteLine("Talha");
 Console.WriteLine("Talha");
 Console.WriteLine("Sema");
 Console.WriteLine("Doğukan");
