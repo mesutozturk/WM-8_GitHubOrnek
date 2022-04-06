@@ -7,5 +7,4 @@ Console.WriteLine("Can");
 Console.WriteLine("Yağızhan");
 Console.WriteLine("Serkan");
 Console.WriteLine("Yağızhan");
-Console.WriteLine("Can");
 Console.WriteLine("Talha");
