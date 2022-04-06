@@ -13,4 +13,8 @@ Console.WriteLine("Can");
 Console.WriteLine("Talha");
 Console.WriteLine("Elif");
 Console.WriteLine("Talha");
+Console.WriteLine("C");
+Console.WriteLine("A");
+Console.WriteLine("N");
+Console.WriteLine("Talha");
 Console.WriteLine("Sema");
