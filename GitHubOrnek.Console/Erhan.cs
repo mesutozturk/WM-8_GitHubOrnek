@@ -6,11 +6,10 @@ using System.Threading.Tasks;
 
 namespace GitHubOrnek.Console
 {
-    internal class Dogukan
+    internal class Erhan
     {
         public string Ad { get; set; }
+
         public string Soyad { get; set; }
-
-
     }
 }
