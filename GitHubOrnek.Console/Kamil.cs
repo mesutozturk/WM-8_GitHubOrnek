@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace GitHubOrnek.Console
 {
-    internal class Kamil
+    public class Kamil
     {
     }
 }
