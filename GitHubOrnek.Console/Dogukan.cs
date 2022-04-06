@@ -10,5 +10,7 @@ namespace GitHubOrnek.Console
     {
         public string Ad { get; set; }
         public string Soyad { get; set; }
+
+
     }
 }
