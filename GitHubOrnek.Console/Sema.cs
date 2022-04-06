@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace GitHubOrnek.Console
 {
-    internal class Dogukan
+    internal class Sema
     {
-        public string Ad { get; set; }
-        public string Soyad { get; set; }
+        public string Name { get; set; }
+        public string Surname { get; set; }
     }
 }
