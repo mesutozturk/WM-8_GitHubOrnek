@@ -1,5 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
+Console.WriteLine("Can");
 Console.WriteLine("Sema");
 Console.WriteLine("Mert");
 Console.WriteLine("Murat");
